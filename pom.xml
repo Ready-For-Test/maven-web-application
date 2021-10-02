@@ -103,7 +103,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>MYTRFR Snapshot Nexus Repository </name>
 	      <url>http://18.118.110.169:8081/repository/MYTRFR-Sanpshot/</url>
 	    </snapshotRepository>
 	    
