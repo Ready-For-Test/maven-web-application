@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>MYTRFR Releases Nexus Repository</name>
-	      <url>http://18.220.227.171:8081/repository/MYTRFR/</url>
+	      <url>http://18.191.122.188:8081/repository/MYTRFR/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>MYTRFR Snapshot Nexus Repository </name>
-	      <url>http://18.220.227.171:8081/repository/MYTRFR-Sanpshot/</url>
+	      <url>http://18.191.122.188:8081/repository/MYTRFR-Sanpshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
